@@ -1,0 +1,68 @@
+{
+    "end": 10,
+    "page": 1,
+    "per_page": 10,
+    "songs": [
+        {
+            "audio_url": "https://cdn1.suno.ai/ffa48fbf-ac87-4a02-8cf2-f3766f518d58.mp3",
+            "avatar_image_url": "https://cdn1.suno.ai/0eebe4cb.png",
+            "created_at": "2024-05-20T13:12:38.565Z",
+            "display_name": "sdf",
+            "handle": "nanashi_zero",
+            "id": "ffa48fbf-ac87-4a02-8cf2-f3766f518d58",
+            "image_large_url": "https://cdn1.suno.ai/ffa48fbf-ac87-4a02-8cf2-f3766f518d58_c134aeb8.png",
+            "image_url": "https://cdn1.suno.ai/ffa48fbf-ac87-4a02-8cf2-f3766f518d58_c134aeb8.png",
+            "is_handle_updated": true,
+            "is_liked": true,
+            "is_public": true,
+            "is_trashed": false,
+            "is_video_pending": false,
+            "major_model_version": "v3",
+            "metadata": {
+                "audio_prompt_id": null,
+                "concat_history": [
+                    {
+                        "continue_at": 129.0,
+                        "id": "b65ba05d-0aa7-4609-ba3d-8351e6ece8de"
+                    },
+                    {
+                        "continue_at": null,
+                        "id": "21bb806d-6187-402a-8edf-587579a28047"
+                    }
+                ],
+                "duration": 184.91997916666668,
+                "error_message": null,
+                "error_type": null,
+                "gpt_description_prompt": null,
+                "has_vocal": null,
+                "history": null,
+                "infill": null,
+                "is_audio_upload_tos_accepted": null,
+                "prompt": "sdf",
+                "refund_credits": null,
+                "stream": null,
+                "tags": "Catchy Instrumental intro. electro swing. sweet female vocal, witch house",
+                "type": "concat"
+            },
+            "model_name": "chirp-v3",
+            "play_count": 949065,
+            "reaction": {
+                "clip": "ffa48fbf-ac87-4a02-8cf2-f3766f518d58",
+                "flagged": false,
+                "flagged_reason": null,
+                "play_count": 3,
+                "reaction_type": "L",
+                "skip_count": 0,
+                "updated_at": "2024-05-21T01:06:27.677Z"
+            },
+            "status": "complete",
+            "title": "I Spent 3000 Credits on This Song",
+            "upvote_count": 6851,
+            "user_id": "dbd094d2-f027-4098-8be2-7ba926a2d1ab",
+            "video_url": "https://cdn1.suno.ai/ffa48fbf-ac87-4a02-8cf2-f3766f518d58.mp4"
+        }
+    ],
+    "start": 0,
+    "total_pages": 68,
+    "total_songs": 59
+}
